@@ -13,7 +13,7 @@ Le projet est organisé comme suit :
 
 - `index.html` : Le fichier principal contenant la structure HTML de toutes les pages.
 - `css/` : Le répertoire contenant les fichiers CSS.
-  - `style.css` : Le fichier principal de styles pour le site web.
+- `style.css` : Le fichier principal de styles pour le site web.
 - `images/` : Le répertoire contenant les images utilisées dans le site.
 
 ## Fonctionnalités
