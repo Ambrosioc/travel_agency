@@ -26,3 +26,10 @@ Le projet est organisé comme suit :
 
 1. Clonez ce repository sur votre machine locale.
 2. Ouvrez le fichier `index.html` dans votre navigateur web pour visualiser le site.
+
+## Captures d'Écran
+
+![Accueil](screenshots/home.png)
+![Destinations](screenshots/destinations.png)
+![Circuits](screenshots/circuits.png)
+![Contact](screenshots/contact.png)
